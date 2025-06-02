@@ -1,4 +1,4 @@
-# test
+# 期末專題：生成對抗網路 (Wasserstein Generative Adversarial Network, WGAN)
 ## 附錄
 ### DNN 深度神經
 [DNN 原理（一）](https://coomerbot.github.io/test/neural_network%20(3).pdf)  
