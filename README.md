@@ -1,5 +1,5 @@
 # test
-## PDF文件
+## 附錄
 ### DNN 深度神經
 [DNN 原理（一）](https://coomerbot.github.io/test/neural_network%20(3).pdf)  
 [DNN 原理（二）](https://coomerbot.github.io/test/neural_network_2%20(2).pdf)  
