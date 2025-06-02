@@ -1,4 +1,5 @@
-# 期末專題：生成對抗網路 (Wasserstein GAN)
+# 期末專題：NumPy 實現生成對抗網路 (Wasserstein GAN with NumPy) 
+GAN 是用於生成圖片的深度學習模型，通過兩個神經網路互相對抗的方式進行學習，而 Wasserstein GAN 則是它的改良版本，能有效地解決 Vanilla GAN 在結構上的問題（詳見附錄）。此專題的目的是從理論出發，以 NumPy 實作模型架構、backpropagation 最佳化算法，完整重現 WGAN 模型。
 ## 附錄
 ### DNN 深度神經
 [DNN 原理（一）](https://coomerbot.github.io/test/neural_network%20(3).pdf)  
